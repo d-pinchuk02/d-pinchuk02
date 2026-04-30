@@ -12,28 +12,15 @@ My main focus is JavaScript ecosystems and Shopify development from custom store
 * 🤖 Automating workflows with CI/CD pipelines
 
 ## 🧰 Tech Stack
-### E-Commerce
-* Shopify Themes
-* Shopify Apps (+ Checkout Extensions, Discount Functions)
 
-### Frontend
-* JavaScript (ES6+)
-* React / Remix / React Router (Redux, TanStack)
-* Vue.js (Vue Router, Vuex / Pinia, Vuetify)
-* HTML5 / Shopify Liquid
-* CSS / SCSS
-
-### Tools & Build Systems
-* Node.js
-* Webpack
-* Vite
-* npm / yarn
-* Git
-
-### DevOps & Workflow
-* Docker / Podman
-* GitHub Actions
-* GitLab CI/CD
+| Area | Technologies |
+| --- | --- |
+| Shopify | Themes, Apps, Liquid, Checkout Extensions, Discount Functions |
+| Frontend | JavaScript ES6+, TypeScript, React, Remix, Vue.js |
+| State & Data | Redux, TanStack Query, Vuex, Pinia |
+| Styling | HTML5, CSS, SCSS, Polaris, Vuetify, Material UI |
+| Tooling | Vite, Webpack, npm, yarn, Git |
+| Backend & DevOps | Node.js, PHP, Docker, GitHub Actions, GitLab CI/CD |
 
 ## Code contributions
 <picture>
@@ -47,4 +34,3 @@ My main focus is JavaScript ecosystems and Shopify development from custom store
   />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/d-pinchuk02/d-pinchuk02/refs/heads/github-breakout/images/breakout-light.svg" />
 </picture>
-
