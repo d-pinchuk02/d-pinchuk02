@@ -5,11 +5,11 @@ I'm a Frontend Web Developer with 4.5+ years of experience building modern web a
 My main focus is JavaScript ecosystems and Shopify development from custom storefronts and themes to full Shopify apps.
 
 ## 🚀 About Me
-* 💻 Frontend developer specializing in JavaScript, React, Vue, and Shopify
+* 💻 Frontend developer specializing in Shopify, TypeScript, React and Vue
 * 🛍 Experienced in building Shopify Themes and Shopify Apps
-* ⚡ Focused on performance optimization and modern tooling
+* ⚡ Focused on performance optimization and modern tooling (Pagespeed, Lighthouse, Core Web Vitals)
 * 🔧 Comfortable working across the stack when needed (Node.js, PHP)
-* 🤖 Automating workflows with CI/CD pipelines
+* 🤖 Automating workflows with CI/CD pipelines (Github Actions)
 
 ## 🧰 Tech Stack
 
