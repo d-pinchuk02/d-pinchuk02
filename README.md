@@ -1,28 +1,31 @@
-# Hi there 👋
+# Hi there, I'm Dmytro 👋
 
-I'm a Frontend Web Developer with 4.5+ years of experience building modern web applications and e-commerce solutions.
+I'm a **Software Engineer** focusing on full-stack web architectures, e-commerce infrastructure, and performance engineering. I like building tools that are fast to load, deterministic to deploy, and clean to maintain.
 
-My main focus is JavaScript ecosystems and Shopify development from custom storefronts and themes to full Shopify apps.
+---
 
-## 🚀 About Me
-* 💻 Frontend developer specializing in Shopify, TypeScript, React and Vue
-* 🛍 Experienced in building Shopify Themes and Shopify Apps
-* ⚡ Focused on performance optimization and modern tooling (Pagespeed, Lighthouse, Core Web Vitals)
-* 🔧 Comfortable working across the stack when needed (Node.js, PHP)
-* 🤖 Automating workflows with CI/CD pipelines (Github Actions)
+## 🛠️ What I Focus On
+* 🛍 **E-Commerce Architecture:** Engineering custom Shopify apps from the database layer to the frontend. Comfortable balancing decoupled Single Page Apps (React/Remix) with native Liquid template constraints and custom app bridges.
+* ⚡ **Performance & Profiling:** Optimizing critical-path rendering, minimizing bundle sizes, and tuning build configurations (Vite/Webpack) to hit strict Core Web Vitals targets. (Turned a legacy 25-score storefront into a 70+ performance baseline).
+* 🤖 **CI/CD & Automation:** Writing declarative workflows (GitHub Actions) to automate environments, run testing suites (Vitest/Playwright), and handle deployments without human intervention.
+* 🔧 **The Stack:** Moving seamlessly between type-safe frontends (TypeScript/React) and dynamic backend engines (Node.js/PHP/Laravel).
 
-## 🧰 Tech Stack
+## 🧰 The Toolkit
+```json
+{
+  "runtime_environments": ["Node.js", "Browser", "Linux"],
+  "languages": ["TypeScript", "JavaScript (ES6+)", "PHP", "Liquid"],
+  "frameworks": {
+    "frontend": ["React", "Remix", "Vue.js", "Next.js"],
+    "backend": ["Express", "Laravel"]
+  },
+  "data_layers": ["PostgreSQL", "MySQL", "Redis", "GraphQL", "REST"],
+  "tooling_and_devops": ["Docker", "Vite", "Webpack", "GitHub Actions", "Nginx"],
+  "testing": ["Jest", "Vitest", "Playwright"]
+}
+```
 
-| Area | Technologies |
-| --- | --- |
-| Shopify | Themes, Apps, Liquid, Checkout Extensions, Discount Functions |
-| Frontend | JavaScript ES6+, TypeScript, React, Remix, Vue.js |
-| State & Data | Redux, TanStack Query, Vuex, Pinia |
-| Styling | HTML5, CSS, SCSS, Polaris, Vuetify, Material UI |
-| Tooling | Vite, Webpack, npm, yarn, Git |
-| Backend & DevOps | Node.js, PHP, Docker, GitHub Actions, GitLab CI/CD |
-
-## Code contributions
+## ✍️ Code contributions
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
